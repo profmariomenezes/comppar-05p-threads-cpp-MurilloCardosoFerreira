@@ -1,4 +1,3 @@
-// matmul_coluna.cpp
 #include <iostream>
 #include <vector>
 #include <chrono>
